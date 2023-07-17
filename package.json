@@ -1,0 +1,12 @@
+{
+  "name": "k-means",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "repository": "https://github.com/MabiGermano/k-means.git",
+  "author": "MabiGermano <MabiGermano>",
+  "license": "MIT",
+  "dependencies": {
+    "plotly.js-dist": "^2.24.3"
+  },
+  "type": "module"
+}
