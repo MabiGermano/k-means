@@ -6,6 +6,9 @@
   "author": "MabiGermano <MabiGermano>",
   "license": "MIT",
   "dependencies": {
+    "chart.js": "^3.9.1",
+    "chartjs-node-canvas": "^4.1.6",
+    "nodeplotlib": "^1.1.2",
     "plotly.js-dist": "^2.24.3"
   },
   "type": "module"
